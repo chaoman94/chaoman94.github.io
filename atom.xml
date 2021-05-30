@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>付出几多心跳</title>
   
-  
+  <subtitle>付出几多心跳</subtitle>
   <link href="https://chaoman94.github.io/atom.xml" rel="self"/>
   
   <link href="https://chaoman94.github.io/"/>
